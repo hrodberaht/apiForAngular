@@ -1,0 +1,22 @@
+{
+  "name": "api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrodberaht/apiForAngular.git"
+  },
+  "author": "Hrodberaht",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hrodberaht/apiForAngular/issues"
+  },
+  "homepage": "https://github.com/hrodberaht/apiForAngular#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
